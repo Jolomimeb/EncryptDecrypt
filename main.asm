@@ -1,11 +1,3 @@
-;File:    main.asm
-;Project: CMSC 313 Project 4, Summer 2023
-;Author:  Oritsejolomisan Mebaghanje
-;Date:    07/21/23
-;E-mail:  xz94254@umbc.edu
-;students id: xz94254
-;Description: This file contains the main functions of the project. It contains the main menu and collects user input, stores it and calls the respective functions. 
-
 	section .data
 extern display
 extern readHelper
