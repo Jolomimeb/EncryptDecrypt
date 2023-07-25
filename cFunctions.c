@@ -1,11 +1,3 @@
-//File:    cFunctions.c
-//Project: CMSC 313 Project 4, Summer 2023
-//Author:  Oritsejolomisan Mebaghanje
-//Date:    07/21/23
-//E-mail:  xz94254@umbc.edu
-//students id: xz94254
-//Description: This file contains the C functions and helper functions and is called in the main file.
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
